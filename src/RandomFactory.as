@@ -6,6 +6,7 @@ package
 	{
 		public function RandomFactory()
 		{
+			trace("test");
 //			trace(getDistance(new Point(1,3), new Point(1,5));
 		}
 		
